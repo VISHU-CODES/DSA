@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/BlackhatVampire/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/BlackhatVampire/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/BlackhatVampire/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BlackhatVampire/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BlackhatVampire/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/BlackhatVampire/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/BlackhatVampire/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BlackhatVampire/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
