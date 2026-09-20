@@ -48,6 +48,7 @@
 | [0206-reverse-linked-list](https://github.com/BlackhatVampire/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BlackhatVampire/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BlackhatVampire/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BlackhatVampire/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/BlackhatVampire/DSA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/BlackhatVampire/DSA/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BlackhatVampire/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
