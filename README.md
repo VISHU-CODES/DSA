@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/BlackhatVampire/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/BlackhatVampire/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/BlackhatVampire/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BlackhatVampire/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BlackhatVampire/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BlackhatVampire/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -52,6 +53,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/BlackhatVampire/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BlackhatVampire/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/BlackhatVampire/DSA/tree/master/0202-happy-number) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BlackhatVampire/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BlackhatVampire/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@
 | [0239-sliding-window-maximum](https://github.com/BlackhatVampire/DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/BlackhatVampire/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/BlackhatVampire/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BlackhatVampire/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BlackhatVampire/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BlackhatVampire/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BlackhatVampire/DSA/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/BlackhatVampire/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
